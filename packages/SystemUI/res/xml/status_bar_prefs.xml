@@ -96,6 +96,12 @@
         android:key="airplane"
         android:title="@string/status_bar_airplane" />
 
+    <com.android.systemui.tuner.TunerSwitch
+        android:icon="@drawable/ic_statusbar_data_disabled"
+        android:key="system:data_disabled_icon"
+        android:title="@string/data_disabled_icon_title"
+        sysui:defValue="true" />
+
     <!-- other weird signal stuff -->
 
     <com.android.systemui.tuner.StatusBarSwitch

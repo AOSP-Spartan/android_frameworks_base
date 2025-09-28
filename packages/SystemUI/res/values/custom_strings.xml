@@ -125,4 +125,7 @@
     <!-- Face unlock -->
     <string name="face_unlock_recognizing">Recognizing face...</string>
 
+    <!-- Data disabled icon -->
+    <string name="data_disabled_icon_title">Data disabled icon</string>
+
 </resources>
